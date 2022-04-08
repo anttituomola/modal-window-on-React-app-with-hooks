@@ -1,2 +1,2 @@
 # How to build modal window on React application with hooks
-Simple example of modal window on React app. Live version available here: 
+Simple example of modal window on React app. Live version available here: (https://modal-window-on-react-with-hooks.netlify.app/)[https://modal-window-on-react-with-hooks.netlify.app/]
